@@ -1,2 +1,3 @@
 #!/bin/bash
-mkdir -p welcome/to/holberton
+rm -rf /tmp/test_tree ; mkdir /tmp/test_tree ; mkdir -p /tmp/test_tree/welcome/to/school ; ls /tmp/test_tree/we* ; ls /tmp/test_tree/welcome/t* ; ls /tmp/test_tree/welcome/to/
+
