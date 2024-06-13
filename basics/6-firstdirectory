@@ -1,5 +1,2 @@
 #!/bin/bash
-mkdir -p /tmp/my_first_directory 
-echo "Directory has been created"
-
-
+mkdir /tmp/my_first_directory
