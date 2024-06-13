@@ -1,3 +1,2 @@
 #!/bin/bash
-p=$(pwd); cd .. > /dev/null && echo "$p"
-
+cd -
